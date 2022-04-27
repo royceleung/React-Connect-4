@@ -1,0 +1,13 @@
+.game-piece {
+    background-color: black;
+    flex-grow: 1;
+    border-radius: 50px;
+}
+
+.piece-red {
+    background-color: red;
+}
+
+.piece-blue {
+    background-color: blue;
+}
